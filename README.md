@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I am now learning to use Github, and then I am gonna go ahead and watch Angela's videos- 
